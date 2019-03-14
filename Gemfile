@@ -46,3 +46,5 @@ group :development do
 end
 
 gem 'pry-byebug', group: :development
+
+gem "activejob", ">= 4.2.10"
